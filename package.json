@@ -1,0 +1,16 @@
+{
+  "name": "new-dev-journey",
+  "version": "1.0.0",
+  "description": "Meu primeiro repositório para registrar minha jornada como desenvolvedor. Estou iniciando no mundo da tecnologia e usando este espaço para aprender, praticar e evoluir.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "15.5",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
