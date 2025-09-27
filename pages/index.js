@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Dando meus primeiros passos no universo da tecnologia, aprendendo a transformar ideias em código.</h1>
+    return <h1>“Iniciando minha jornada no mundo da tecnologia e criação de páginas web.</h1>
 }
 
 export default Home;
